@@ -10,7 +10,7 @@ It is designed specifically Debian-based distributions.
 
 * **pcsc-tools** - A set of utilities for testing and debugging smart card readers. Includes tools like pcsc_scan that can be used to detect and interact with smart card readers connected to the system. Shows real-time information about card insertion, removal, and communication.
 
-* **opensc** - Open-source tools and libraries for smart cards. Provides a programmatic way to interact with different types of smart cards. It supports PKCS#11, which is used for cryptographic operations. It allows the software to read/write data, manage certificates, and configure smart cards. It relies on pcscd (PC/SC Daemon) to handle the low-level communication with the smart card reader hardware.
+* **opensc** - Open-source tools and libraries for smart cards. Provides a CLI and programmatic way to interact with different types of smart cards. It supports PKCS#11, which is used for cryptographic operations. It allows the software to read/write data, manage certificates, and configure smart cards. It relies on pcscd (PC/SC Daemon) to handle the low-level communication with the smart card reader hardware.
 
 * **libnss3-tools** - Provides command-line utilities for the Network Security Services (NSS) libraries. NSS is a set of libraries for supporting cryptographic security, including SSL/TLS and PKI. Adding or removing certificates from Firefox, Chromium, Thunderbird, Okular or other NSS-based applications.
 

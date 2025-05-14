@@ -2,7 +2,7 @@
 This guide explains how to set up and use [StampIT](https://www.stampit.org/) Digital Signature Certificate (a.k.a. Квалифициран Електронен Подпис - КЕП).  
 It is designed specifically Debian-based distributions.   
 
-**Note:** If you want to use RedHat-based or other distributions, you will need to find the right packages and drivers.  
+**Note:** If you want to use RedHat-based or other distributions, you will need to find the relevant packages and drivers.  
 
 # Install and Setup Prerequisites
 ## Required tools

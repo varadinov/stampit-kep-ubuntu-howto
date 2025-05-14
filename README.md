@@ -12,7 +12,7 @@ It is designed specifically Debian-based distributions.
 
 * **opensc** - Open-source tools and libraries for smart cards. Provides a CLI and programmatic way to interact with different types of smart cards. It supports PKCS#11, which is used for cryptographic operations. It allows the software to read/write data, manage certificates, and configure smart cards. It relies on pcscd (PC/SC Daemon) to handle the low-level communication with the smart card reader hardware.
 
-* **libnss3-tools** - Provides command-line utilities for the Network Security Services (NSS) libraries. NSS is a set of libraries for supporting cryptographic security, including SSL/TLS and PKI. Adding or removing certificates from Firefox, Chromium, Thunderbird, Okular or other NSS-based applications.
+* **libnss3-tools** - Provides command-line utilities for the Network Security Services (NSS) libraries. NSS is a set of libraries for supporting cryptographic security, including SSL/TLS and PKI. Adding or removing certificates from Firefox, Chromium, Thunderbird, Okular or any other NSS-based applications.
 
 
 ```
